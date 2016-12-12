@@ -11,9 +11,9 @@ Cet API permet de renvoyer un nombre n d'url à l'utilsiateur qui possède la cl
 ## Usage
 Appel Api déclenché lors d'un appel géré par le plug-in
 
-#Resultats
+## Resultats
 Format Json. {"id" : "href", ...}<br/>
-Les n urls qui ont le plus gros qs parmi celles qui matchent avec les préférences utilisatuers
+Les n urls qui ont le plus gros qs parmi celles qui matchent avec les préférences utilisateur
 
 ## Version Python
 Ecrit en python 2.7
